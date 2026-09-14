@@ -6,6 +6,12 @@ Why did revenue grow while profit barely moved? This project traces the gap betw
 
 The company's gross profit grew only 1.6% while total expenses grew 3.3% — nearly double the pace. This analysis digs into *why*, tracing the pressure back to rising COGS on the best-selling product, and closes with three data-driven recommendations for improving margins.
 
+## Repository structure
+
+├── dataset+ Excel Dashboard/ # raw dataset and the Excel workbook with the full financial dashboard
+
+└── Presentation/ # full analysis walkthrough with key findings and insights (Gross Profit, Expenses, Net Earnings, margin analysis, product performance, and recommendations) 
+
 ## Tools
 - Microsoft Excel (formulas, pivot tables, dynamic dashboard)
 - PowerPoint (final presentation)
@@ -27,7 +33,4 @@ The company's gross profit grew only 1.6% while total expenses grew 3.3% — nea
 2. **Scale** the fastest-growing, most profitable product
 3. **Reassess** the underperforming product — pricing, marketing spend, or repositioning
 
-## Repository structure
 
-├── dataset+ Excel Dashboard/ # raw dataset and the Excel workbook with the full financial dashboard
-└── Presentation/ # full analysis walkthrough with key findings and insights (Gross Profit, Expenses, Net Earnings, margin analysis, product performance, and recommendations)
